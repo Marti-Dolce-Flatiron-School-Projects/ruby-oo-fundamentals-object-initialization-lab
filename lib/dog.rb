@@ -13,6 +13,6 @@ class Dog
  	end
 end
 
-fido = Dog.new('Connie', "Pug")
+fido = Dog.new('Connie', '')
 
 
